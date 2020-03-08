@@ -1,0 +1,99 @@
+.titulo1{
+    font-weight: bold;
+}
+ 
+.imagendefondo{
+    background-image: url(img/imagen\ de\ fondo.jpg);
+}
+.tamañoimagen1{
+    width:1900px;
+    height:360px;
+}
+
+.textodescripcion{
+    font-size:1.2em;
+}
+
+.textoinfoprogramador{
+    text-align: center;
+    color:white;
+}
+
+.fondofooter{
+    background-color:gray ;
+}
+
+.fondodelapagina1{
+    background-color: rgba(0, 243, 219, 0.527);
+}
+
+.titulopagina1{
+    font-weight:bold;
+    color: green;
+}
+
+.subtitulocuento1{
+    font-weight: bold;
+    color: green;
+}
+
+.Descripcioncuentocuento1{
+    font-family:MV Boli;
+    font-style: italic;
+    text-align: justify;
+
+}
+
+.tamañovideo{
+    widows: 500px;
+    height: 300px;
+}
+
+.fondofooterpagina1{
+    background-color:gray ;
+}
+
+.textoinfoprogramadorpagina1{
+    text-align: center;
+    color: white;
+}
+
+.fondodelapagina2{
+    background-color:rgba(0, 243, 219, 0.527);
+}
+
+.titulocuentopagina2{
+    font-weight: bold;
+    color: blue;
+}
+
+.tamañoimgpagina2{
+    width: 480px;
+    height:400px;
+}
+
+.subtitulocuento2{
+    font-weight: bold;
+    color: blue; 
+}
+.descripcioncuento2{
+     font-style: italic;
+     font-family:MV Boli;
+     text-align:left;
+     color: blue;
+}
+
+.descripcionnumero2{
+    font-style: italic;
+    font-family:MV Boli;
+    color: blue;
+}
+
+.fondofooterpagina2{
+    background-color: grey;
+}
+
+.textoinfoprogramadorpagina2{
+    color: white;
+    text-align: center;
+}
